@@ -46,5 +46,5 @@
 ### Contact and social media:
 <div>
   <a href="https://www.linkedin.com/in/thiagosoutodev/" target="_blank"><img alt="Thiago - Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://twitter.com/thiagosoutodev target="_blank"><img alt="Thiago - Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+  <a href="https://twitter.com/thiagosoutodev" target="_blank"><img alt="Thiago - Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
 </div>
