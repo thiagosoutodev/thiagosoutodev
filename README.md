@@ -1,7 +1,7 @@
 ## Hello, I am Thiago Souto!
 
 - 🔭 I’m currently working on personal projects.
-- 🌱 I’m currently learning Express.js, jQuery, Bootstrap and Python Pandas.
+- 🌱 I’m currently learning React.js and Express.js.
 - 😄 Pronouns: he/him.
 - ⚡ Fun fact: I love city-building games!
 
